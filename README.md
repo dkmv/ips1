@@ -1,2 +1,2 @@
 hello world update
-updating
+updating update status
